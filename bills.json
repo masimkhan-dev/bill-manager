@@ -1,0 +1,38 @@
+{
+    "1": {
+        "customer_name": "yaseen",
+        "total_amount": 400,
+        "timestamp": "2024-12-13T08:33:24.849499",
+        "qr_code_path": "bill_1_yaseen.png",
+        "items": [
+            {
+                "name": "Item1",
+                "price": 100,
+                "quantity": 2
+            },
+            {
+                "name": "Item2",
+                "price": 200, 
+                "quantity": 1
+            }
+        ]
+    },
+    "2": {
+        "customer_name": "yaseen",
+        "total_amount": 400,
+        "timestamp": "2024-12-13T08:34:57.555065",
+        "qr_code_path": "bill_2_yaseen.png",
+        "items": [
+            {
+                "name": "wact",
+                "price": 100,
+                "quantity": 2
+            },
+            {
+                "name": "apple",
+                "price": 200,
+                "quantity": 1
+            }
+        ]
+    }
+}
