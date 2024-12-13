@@ -1,6 +1,3 @@
-Here is a sample README file you can use for your GitHub project. You can copy and modify it as needed for your Bill Manager app:
-
----
 
 # Bill Manager Application
 
